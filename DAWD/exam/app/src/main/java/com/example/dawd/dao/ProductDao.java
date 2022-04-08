@@ -1,4 +1,4 @@
-package com.example.dawd.room;
+package com.example.dawd.dao;
 
 import androidx.room.Dao;
 import androidx.room.Insert;
@@ -14,6 +14,6 @@ public interface ProductDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     void insertProduct(Product product);
 
-    @Query("SELECT * FROM Product")
+    @Query("SELECT * FROM products")
     List<Product> findAll();
 }

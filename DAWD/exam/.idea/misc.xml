@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Assignments/Aptech-SEM4/Android/exam/app/src/main/res/layout/activity_add_product.xml" value="0.2" />
-        <entry key="..\:/Assignments/Aptech-SEM4/Android/exam/app/src/main/res/layout/activity_list_product.xml" value="0.4" />
+        <entry key="..\:/Assignments/Aptech-SEM4/Android/exam/app/src/main/res/layout/activity_list_product.xml" value="0.2" />
         <entry key="..\:/Assignments/Aptech-SEM4/Android/exam/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Assignments/Aptech-SEM4/Android/exam/app/src/main/res/layout/recycler_item.xml" value="0.136" />
       </map>
     </option>
   </component>
